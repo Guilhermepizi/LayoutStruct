@@ -14,6 +14,21 @@ margin: 0 auto;
 width: 980px;
 position: relative;
 }
+
 .logo{
+float: left;    
 padding: 16px;
+width: 70%;
+}
+
+.redes-sociais ul li{
+    margin-left: 15px;
+display: inline-block;
+float: left;
+list-style: none;
+}
+
+.redes-sociais{
+width: 25%;
+float: right;
 }
