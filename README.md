@@ -1,6 +1,6 @@
 # Projeto Layout Struct
 
-  <p>:heavy_check_mark: Projeto em Finalizado :heavy_check_mark:<p>
+  <p>:construction: Projeto em Andamento :construction:<p>
 
 ## Índice :scroll:
 * [Título](#projeto-layout-struct)
