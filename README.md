@@ -22,8 +22,11 @@
 ## Como rodar a aplicação :arrow_forward:
   <p> No terminal, clone o projeto:<br>
   git clone https://github.com/Guilhermepizi/LayoutStruct<br><br>
-  Abra o projeto pela sua IDE<br>
-  Execute o projeto
+  Abra o Visual Studio Code <br>
+  Clique em File<br>
+  Open Folder(Selecione a pasta clonada do projeto)<br>
+  Clique na aba Run e depois clique em Start Debuging<br>
+  PRONTO! Espero que gostem!
   
 
 
